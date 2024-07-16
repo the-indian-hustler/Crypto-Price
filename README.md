@@ -1,4 +1,5 @@
 # React + Vite
+This is a react project which gives the currrent prices of the cryptos using API.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
